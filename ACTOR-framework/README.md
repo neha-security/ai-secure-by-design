@@ -30,6 +30,12 @@ Evaluate AI risk before deployment by understanding:
 
 The goal is to determine **how much damage the AI could cause if misused**, not just whether it works.
 
+Questions to ask:
+
+* What data can the AI infer beyond explicit access?
+* Can AI combine multiple datasets to reconstruct sensitive insight?
+* Does AI privilege exceed user privilege?
+* Is output bounded by sensitivity and context?
 ---
 
 ## C – Control
