@@ -36,6 +36,13 @@ Questions to ask:
 * Can AI combine multiple datasets to reconstruct sensitive insight?
 * Does AI privilege exceed user privilege?
 * Is output bounded by sensitivity and context?
+
+### Autonomy Assessment
+- Does the AI only assist, or does it act on behalf of users?
+- Are actions limited to internal systems or external entities?
+- Is human approval required before execution?
+- Can actions be reversed and audited?
+
 ---
 
 ## C – Control
