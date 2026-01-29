@@ -64,6 +64,12 @@ Define when AI outputs and actions can be trusted:
 
 Trust is dynamic and depends on context, risk, and data sensitivity.
 
+### Human-in-the-Loop Limitations
+- Human approval does not equal understanding or control.
+- High-frequency or complex actions lead to approval fatigue.
+- AI may plan multiple dependent actions beyond human visibility.
+- Trust decisions must account for action complexity and blast radius, not just presence of human approval.
+
 ---
 
 ## O – Operate
