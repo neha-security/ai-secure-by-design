@@ -92,6 +92,12 @@ Prepare for AI-specific incidents:
 
 AI incidents require faster, context-aware response mechanisms.
 
+### Responding to AI Misuse
+- AI incidents must be treated as identity and privilege incidents, not model failures.
+- Response actions may include restricting autonomy, revoking AI privileges, or isolating data sources.
+- Prompt misuse and output abuse require faster containment than traditional security events.
+- Continuous red teaming findings should feed directly into response playbooks.
+
 ---
 
 ## Why ACTOR exists
