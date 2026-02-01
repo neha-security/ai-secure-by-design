@@ -54,6 +54,12 @@ Apply guardrails that restrict AI behavior beyond traditional IAM:
 
 Controls ensure AI actions never exceed **business intent**.
 
+### Intent Validation Controls
+- AI systems should not assume benign user intent based on identity alone.
+- High-risk prompts require contextual validation beyond authentication.
+- Natural language inputs must be evaluated for action intent, not just content.
+- Controls should limit AI authority even when user access appears legitimate.
+
 ---
 
 ## T – Trust
