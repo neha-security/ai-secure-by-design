@@ -60,7 +60,11 @@ Controls ensure AI actions never exceed **business intent**.
 - Natural language inputs must be evaluated for action intent, not just content.
 - Controls should limit AI authority even when user access appears legitimate.
 
----
+### Authority Containment (Control)
+- AI authority must never exceed the minimum execution intent of the user.
+- Action permissions must be narrower than data access permissions.
+- High-impact actions require explicit scoping and reversibility.
+- AI-triggered actions must be isolated from broad service accounts.
 
 ## T – Trust
 Define when AI outputs and actions can be trusted:
