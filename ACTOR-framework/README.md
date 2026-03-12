@@ -43,6 +43,11 @@ Questions to ask:
 - Is human approval required before execution?
 - Can actions be reversed and audited?
 
+### Security Assumptions to Validate
+- Assumed benign intent of authenticated users
+- Assumed separation between user access and AI authority
+- Assumed safety of read-only access in inferential systems
+- Assumed effectiveness of logging without preemptive controls
 ---
 
 ## C – Control
