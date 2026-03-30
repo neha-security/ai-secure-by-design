@@ -119,4 +119,8 @@ AI incidents require faster, context-aware response mechanisms.
 Traditional security controls stop at authentication.
 ACTOR extends security into **decision-making, autonomy, and action execution**.
 
+## Detection Engineering
+
+- [Detection Engineering Basics](Detection_Engineering_Basics.md)
+
 ACTOR enables organizations to adopt AI confidently while remaining secure, compliant, and auditable.
