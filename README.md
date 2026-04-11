@@ -21,3 +21,7 @@ Organizations are rapidly adopting AI across platforms, often without consistent
 
 ## Status
 This is a living repository and will evolve as new frameworks and insights are added.
+
+## PowerShell & LOTL Attacks
+
+- [PowerShell LOTL Attacks](PowerShell_LOTL_Attacks.md)
