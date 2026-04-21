@@ -25,3 +25,7 @@ This is a living repository and will evolve as new frameworks and insights are a
 ## PowerShell & LOTL Attacks
 
 - [PowerShell LOTL Attacks](PowerShell_LOTL_Attacks.md)
+
+## Privilege Escalation
+
+- [Privilege Escalation Basics](Privilege_Escalation_Basics.md)
